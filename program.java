@@ -37,8 +37,7 @@ public class Program {
 				}
 			}
 
-			System.out
-					.println("Would you like to select the largest or smallest number \na)Largest\nb)Smallest");
+			System.out.println("Would you like to select the largest or smallest number \na)Largest\nb)Smallest");
 			choice = scan.next().toLowerCase().trim().charAt(0);
 
 			// Validating user's choice to see the smallest, largest or all numbers are the same message.
