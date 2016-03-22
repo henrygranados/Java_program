@@ -9,6 +9,6 @@ and prompt the user to go again or exit.
 **Program**
 - Checks for user's input (accepts only numbers).
 - Finds smallest and largest number
-- Veryfies user's input in case he/she would want to see the largest/smallest numbers
+- Veryfies user's input in case he/she would want to see the largest/smallest number
 - Checks if all numbers are the same.
 - Allows user to either continue or exit the program.
