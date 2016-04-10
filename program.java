@@ -43,7 +43,7 @@ public class Program {
 			// Validating user's choice to see the smallest, largest or all numbers are the same message.
 			switch (choice) {
 			case 'a':
-				if (areAllElementsTheSame(arr) == true) {
+				if (areAllElementsTheSame(arr)) {
 					System.out.println("All numbers are the same");
 					break;
 				} else {
@@ -51,7 +51,7 @@ public class Program {
 					break;
 				}
 			case 'b':
-				if (areAllElementsTheSame(arr) == true) {
+				if (areAllElementsTheSame(arr)) {
 					System.out.println("All numbers are the same");
 					break;
 				} else {
