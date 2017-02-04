@@ -67,7 +67,7 @@ public class Program {
 			answer = scan.next().toLowerCase().trim().charAt(0);
 
 		} while (answer != 'n'); // Exiting do while loop in case user's types 'n'
-		System.out.println("Good Bye!");
+		System.out.println("Good Bye!.");
 
 	}
 
